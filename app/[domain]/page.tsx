@@ -203,11 +203,11 @@ export default async function IndexPage({
             &quot;Verify DNS Record&quot;.
           </p>
           <p className="mt-6 max-w-lg text-sm">
-            If you like this project, consider{" "}
-            <a href="https://github.com/sponsors/mozzius" className="underline">
-              sponsoring my work
+            As the developer, keeping miqote.cafe running costs me money, any support is welcomed{" "}
+            <a href="https://bsky.app/profile/miqote.cafe" className="underline">
+              on my Bluesky
             </a>
-            .
+            ! ❤️
           </p>
         </Stage>
       </div>
